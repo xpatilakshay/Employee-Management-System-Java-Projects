@@ -1,6 +1,7 @@
 # Employee-Management-System-Java-Projects
 This project is Made By @xpatilakshay (Akshay Patil) With the help of toutorials and it contains java swing technology with jdbc connectivity
 
+![EMP](https://github.com/xpatilakshay/Employee-Management-System-Java-Projects/blob/2a8aeffc816c5eb5fe85a1b64962214412d7d200/Home-Employee%20Management%20System%2001-02-2024%2020_50_02.png)
 
 INTRODUCTION :
 In today's dynamic workplace, effective employee management is crucial for organizational success. The Employee Management System (EMS) aims to streamline HR processes, enhance communication, and optimize resource utilization. This system facilitates tasks such as employee information storage, payroll management, and performance tracking.
@@ -189,3 +190,4 @@ SOFTWARE SYSTEM ATTRIBUTES
 - Correctness: Bug-free software meeting client requirements.
 - Maintainability: Ability to maintain, modify, and update the system.
 - Accessibility: Controlled access for administrators and users based on their work scope.
+
