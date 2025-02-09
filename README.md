@@ -1,6 +1,7 @@
 # Employee-Management-System-Java-Projects
 This project is Made By @xpatilakshay (Akshay Patil) With the help of toutorials and it contains java swing technology with jdbc connectivity
 
+![EMP Login](https://github.com/xpatilakshay/Employee-Management-System-Java-Projects/blob/ef32275edf1bc765d47f4c05014564007a6eba6c/Login%20-%20Employee%20Management%20System%2001-02-2024%2020_48_51.png)
 ![EMP](https://github.com/xpatilakshay/Employee-Management-System-Java-Projects/blob/2a8aeffc816c5eb5fe85a1b64962214412d7d200/Home-Employee%20Management%20System%2001-02-2024%2020_50_02.png)
 
 INTRODUCTION :
